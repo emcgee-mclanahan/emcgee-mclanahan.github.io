@@ -107,6 +107,7 @@ tr:nth-child(odd){
     padding: 6px 20px;
     border-radius: 10px;
     color: white;
+    cursor: pointer;
 }
 #xlsx{
     background-color: darkgreen;
