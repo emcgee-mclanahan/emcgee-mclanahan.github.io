@@ -1,7 +1,7 @@
 // JS page for application data
 const user ={
-    firstName:"Ethan",
-    lastName: "McGee",
+    firstName:"admin",
+    lastName: "admin",
     employeeNumber:1905,
     title:"Business Process Developer",
     permUser:"emcgee",
