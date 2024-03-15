@@ -1,39 +1,9 @@
-# Servers / Areas to Recover
+# Project Portal 
 
-| ***Server***   | ***Description***                           | ***Status***  |
-| :---           | :---                                        | ---:          |
-| McBartender    | Possibbly lost, will need to rebuild labels | awaiting      |
-| McWeldDev1     | Possibly lost with no backup                | awaiting      |
-| EpicorTest1    | Kinect layers lost                          | awaiting      |
-| McEpicor3      | Bezlio Data Broker + C# files + References  | awaiting      |
-| Bezlio Portal  | Bezlio Data                                 | wait          |
+### Purpose
+The purpose of this repo is to be a practice playground for html, js, css. 
+I will be adding small and interesting developement notes to this project. 
 
+### Goal
+My goal for this project is to be purely a sandbox that is a static site, hosted via github. 
 
-# Services To Open 
-
-| ***Server***   | ***Services***                              | ***Status***  |
-| :---           | :---                                        | ---:          |
-| McEpicor3      | On-Prem Data Gateway                        | awaiting      |
-| McEpicor3      | Bezlio Data                                 | awaiting      |
-
-
-# Remote User CrowdStrike List
-
-| ***User***   | ***Device*** | ***Status***  |
-| :---           | :---         | ---:          |
-| Mark Marier    | laptop       | done          |
-| Blair Poorman  | Laptop       | done          |
-| Jeff Denger    | Laptop       | done          |
-| Hannah Fyock   | Laptop       | done          |
-| Jenee Delerme  | Laptop       | done          |
-| Marketing Yoga | Laptop       | done          |
-| Adam Eardley   | Laptop       | done          |
-| Andrea Ritchey | Laptop       | done          |
-| Kyle Dambeck   | Laptop       | done          |
-| Sean Burns     | Laptop       | done          |
-| Reece Gildea   | Laptop       | done          |
-| GeordieEdmiston| Laptop       | done          |
-| Joel Walstrom  | Laptop       | done          |
-| Michael Day    | Laptop       | done          |
-| Ken Kirsch     | Laptop       | done          |
-| Andrea Ritchey | Laptop       | done          |
