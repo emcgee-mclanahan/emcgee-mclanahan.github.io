@@ -7,7 +7,7 @@
     color: red;
 }
 body {
-    background-color: rgb(51, 49, 48);
+    background-color: rgb(38, 35, 64);
 }
 .page{
     display: flex;
@@ -78,7 +78,7 @@ span{
     float: right;
     background-color: rgb(109, 107, 107);
     border-radius: 5px;
-    padding: 5px 5px 5px 5px;
+     padding: 5px 5px 5px 5px;
 }
 table{
     font-family: Arial, Helvetica, sans-serif;
