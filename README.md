@@ -2,7 +2,6 @@
 
 | ***Server***   | ***Description***                           | ***Status***  |
 | :---           | :---                                        | ---:          |
-| -------------- | ------------------------------------------  | ------------- |
 | McBartender    | Possibbly lost, will need to rebuild labels | awaiting      |
 | McWeldDev1     | Possibly lost with no backup                | awaiting      |
 | EpicorTest1    | Kinect layers lost                          | awaiting      |
@@ -14,16 +13,14 @@
 
 | ***Server***   | ***Services***                              | ***Status***  |
 | :---           | :---                                        | ---:          |
-| -------------- | ------------------------------------------  | ------------- |
 | McEpicor3      | On-Prem Data Gateway                        | awaiting      |
 | McEpicor3      | Bezlio Data                                 | awaiting      |
 
 
 # Remote User CrowdStrike List
 
-| ***User  ***   | ***Device*** | ***Status***  |
+| ***User***   | ***Device*** | ***Status***  |
 | :---           | :---         | ---:          |
-| -------------- | -------------|---------------|
 | Mark Marier    | laptop       | done          |
 | Blair Poorman  | Laptop       | done          |
 | Jeff Denger    | Laptop       | done          |
